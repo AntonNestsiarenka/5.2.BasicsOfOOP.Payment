@@ -1,9 +1,9 @@
 package by.java.oop_2.logic;
 
-import by.java.oop_2.bean.InvalidAmountException;
-import by.java.oop_2.bean.Payment;
-import by.java.oop_2.bean.Product;
-import by.java.oop_2.bean.User;
+import by.java.oop_2.bean.payment.InvalidAmountException;
+import by.java.oop_2.bean.payment.Payment;
+import by.java.oop_2.bean.product.Product;
+import by.java.oop_2.bean.person.person_children.User;
 import by.java.oop_2.view.Viewer;
 
 import java.util.Objects;

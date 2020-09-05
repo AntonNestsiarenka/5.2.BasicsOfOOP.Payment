@@ -1,4 +1,4 @@
-package by.java.oop_2.bean;
+package by.java.oop_2.bean.product;
 
 import java.util.Objects;
 

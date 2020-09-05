@@ -1,8 +1,8 @@
 package by.java.oop_2;
 
-import by.java.oop_2.bean.Person;
-import by.java.oop_2.bean.Product;
-import by.java.oop_2.bean.User;
+import by.java.oop_2.bean.person.Person;
+import by.java.oop_2.bean.product.Product;
+import by.java.oop_2.bean.person.person_children.User;
 import by.java.oop_2.logic.UserLogic;
 
 public class PaymentMain {

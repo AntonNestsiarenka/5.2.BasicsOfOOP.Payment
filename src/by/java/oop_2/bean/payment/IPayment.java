@@ -1,4 +1,6 @@
-package by.java.oop_2.bean;
+package by.java.oop_2.bean.payment;
+
+import by.java.oop_2.bean.product.Product;
 
 public interface IPayment {
 

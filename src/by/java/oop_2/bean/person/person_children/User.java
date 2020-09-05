@@ -1,4 +1,7 @@
-package by.java.oop_2.bean;
+package by.java.oop_2.bean.person.person_children;
+
+import by.java.oop_2.bean.payment.Payment;
+import by.java.oop_2.bean.person.Person;
 
 import java.util.Objects;
 
